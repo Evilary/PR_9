@@ -24,5 +24,10 @@ namespace Book_Чернышков
         {
             InitializeComponent();
         }
+
+        private void tbSearch_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
