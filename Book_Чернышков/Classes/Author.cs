@@ -12,9 +12,9 @@ namespace Book_Чернышков.Classes
 
         public string FIO { get; set; }
 
-        public Author(int ID, string FIO) {
+        public Author(int Id, string FIO) {
             
-            this.Id = ID;
+            this.Id = Id;
             this.FIO = FIO;
 
         }
